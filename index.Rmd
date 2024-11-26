@@ -3,7 +3,12 @@ title: "clare's personal project wiki"
 author: "cfm"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+github-repo: personal-proj-wiki
+documentclass: book
+output: bookdown::gitbook
 ---
+
+# home page 
 
 <!-- rmd_files: -->
 <!--   html: ["index.Rmd", "abstract.Rmd", "intro.Rmd"] -->
