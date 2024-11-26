@@ -1,12 +1,16 @@
 # sb + puberty 
 
 ### project description
-  - focal questions 
-  - co-authors
-  - goal 
+- focal questions 
+- co-authors
+- goal 
+
 ### location of data, code, notes, write-ups, posters, etc.
+
 ### sample description 
+
 ### pre-lim findings 
+
 ### decisions
 
 ### output from project:

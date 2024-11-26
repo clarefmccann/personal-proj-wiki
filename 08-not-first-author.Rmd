@@ -3,15 +3,17 @@
 ## teen bugs 
 
 ### project description
-  - focal questions 
-  - co-authors
-  - goal 
+- focal questions 
+- co-authors
+- goal 
+
 ### contribution
 
 ## BEAD
 
 ### project description
-  - focal questions 
-  - co-authors
-  - goal 
+- focal questions 
+- co-authors
+- goal 
+
 ### contribution
