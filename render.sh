@@ -3,7 +3,7 @@
 # usage: ./render.sh
 
 PROJECT_DIR="$(pwd)" 
-OUTPUT_DIR="$PROJECT_DIR/_book"
+OUTPUT_DIR="$PROJECT_DIR/_docs"
 
 if ! command -v Rscript &> /dev/null; then
   echo "error: Rscript is not installed. please install R to proceed."
