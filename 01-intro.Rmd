@@ -1,0 +1,17 @@
+# introduction 
+
+purpose of wiki: to maintain organization for various project pipelines 
+
+organized by project!
+
+skeleton structure: 
+
+- project description
+  - focal questions 
+  - co-authors
+  - goal 
+- location of data, code, notes, write-ups, posters, etc.
+- sample description 
+- pre-lim findings 
+- decisions
+

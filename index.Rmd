@@ -1,9 +1,10 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "clare's personal project wiki"
+author: "cfm"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
-
+<!-- rmd_files: -->
+<!--   html: ["index.Rmd", "abstract.Rmd", "intro.Rmd"] -->
+<!--   latex: ["abstract.Rmd", "intro.Rmd"] -->
