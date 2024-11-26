@@ -1,9 +1,12 @@
 # sb + puberty 
 
-### background
+### project description
+  - focal questions 
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### sample description 
+### pre-lim findings 
+### decisions
 
-
-### puberty derivation 
-
-
-### analyses
+### output from project:

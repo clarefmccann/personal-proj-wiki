@@ -8,7 +8,7 @@ documentclass: book
 output: bookdown::gitbook
 ---
 
-# home page 
+# home!
 
 <!-- rmd_files: -->
 <!--   html: ["index.Rmd", "abstract.Rmd", "intro.Rmd"] -->

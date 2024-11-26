@@ -1,6 +1,17 @@
 # additional projects
 
-### teen bugs 
+## teen bugs 
 
+### project description
+  - focal questions 
+  - co-authors
+  - goal 
+### contribution
 
-### BEAD
+## BEAD
+
+### project description
+  - focal questions 
+  - co-authors
+  - goal 
+### contribution

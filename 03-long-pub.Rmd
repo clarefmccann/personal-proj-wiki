@@ -1,1 +1,10 @@
 # longitudinal puberty manuscript
+
+### project description
+  - focal questions 
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### decisions
+
+### output from project:

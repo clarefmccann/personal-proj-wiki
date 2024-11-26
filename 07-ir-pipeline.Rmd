@@ -1,12 +1,13 @@
 # ir pipeline
 
-### background
-
-
-### pre-processing
-
-
-### univariate pipeline 
-
-
-### multivariate pipeline
+### project description
+  - focal questions 
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### sample description 
+### pipelines
+  - univariate 
+    - decision notes:
+  - multivariate
+    - decision notes:

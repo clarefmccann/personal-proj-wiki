@@ -1,10 +1,31 @@
 # tag projects
 
+### sample information: 
 
-### puberty derivation 
+## puberty derivation 
 
+### project description
+  - focal questions 
+  - data release information
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### specific sample description 
+### pre-lim findings 
+### decisions
 
+### output from project:
 
+## smri + puberty 
 
+### project description
+  - focal questions 
+  - data release information
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### specific sample description 
+### pre-lim findings 
+### decisions
 
-### smri + puberty 
+### output from project:

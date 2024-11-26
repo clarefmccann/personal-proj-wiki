@@ -1,13 +1,13 @@
 # 251
 
-### background 
+### project description
+  - focal questions 
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### sample description 
+### pre-lim findings 
+### decisions
 
-### sample 
-
-### location of things
-
-### measures
-
-### manuscripts 
-    #### ela --> pub --> well-being
-
+### output from project:
+   - manuscript submission to dev psych journal 

@@ -1,15 +1,45 @@
 # abcd projects
 
+### sample description: 
 
+## puberty derivation 
 
-### puberty derivation 
+### project description
+  - focal questions 
+  - data release information
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### specific sample description 
+### pre-lim findings 
+### decisions
 
+### output from project:
 
+## sMRI + puberty 
 
+### project description
+  - focal questions 
+  - data release information
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### specific sample description 
+### pre-lim findings 
+### decisions
 
-### sMRI + puberty 
+### output from project:
 
+## functional connect + puberty 
 
+### project description
+  - focal questions 
+  - data release information
+  - co-authors
+  - goal 
+### location of data, code, notes, write-ups, posters, etc.
+### specific sample description 
+### pre-lim findings 
+### decisions
 
-
-### functional connect + puberty 
+### output from project:
